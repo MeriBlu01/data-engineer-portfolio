@@ -1,4 +1,4 @@
-## Weekly metrics report from a team of testers
+## Weekly Metrics Report: Testers Performance
 
 ### Project Objective
 The objective of this project is to design and implement a data engineering system that extracts, processes, and visualizes key performance metrics of a group of testers who work with tools like Jira, Postman, Bitrise, and TestRail in an agile environment. These metrics include the number of test cases resolved, tasks assigned and completed, bugs found and fixed, and other relevant values to assess the testers' work.
